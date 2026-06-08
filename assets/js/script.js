@@ -72,3 +72,19 @@ form.addEventListener('submit', e => {
         btnSend.disabled = false;
     });
 });
+
+// 4. Hamburger Menu Toggle (Mobile Responsive)
+const hamburger = document.querySelector('.hamburger');
+const navLinks = document.querySelector('.nav-links');
+
+hamburger.addEventListener('click', () => {
+    navLinks.classList.toggle('active');
+});
+
+// Otomatis menutup menu setelah link menu atau tombol tema diklik
+const menuItems = document.querySelectorAll('.nav-links a, #theme-toggle');
+menuItems.forEach(item => {
+    item.addEventListener('click', () => {
+        navLinks.classList.remove('active');
+    });
+});
