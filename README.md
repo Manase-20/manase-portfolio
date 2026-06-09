@@ -1,3 +1,14 @@
+# 👋 Hi, I'm Manase Josua Manurung
+
+Software Testing | Quality Assurance | IT Support | Web Development | Warehouse Operations
+
+Welcome to my personal portfolio repository.
+
+I am a Diploma III Informatics Engineering graduate with professional experience in Warehouse Operations and a strong interest in Software Testing, Quality Assurance, IT Support, and Web Development.
+
+Through this portfolio, I showcase my technical projects, certifications, professional experience, and continuous learning journey. I am passionate about improving quality, efficiency, and reliability, whether in software systems or operational processes.
+
+
 # Manase Portfolio
 
 ## Overview
