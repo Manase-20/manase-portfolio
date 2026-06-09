@@ -9,7 +9,6 @@ I am a Diploma III Informatics Engineering graduate with professional experience
 Through this portfolio, I showcase my technical projects, certifications, professional experience, and continuous learning journey. I am passionate about improving quality, efficiency, and reliability, whether in software systems or operational processes.
 
 
-# Manase Portfolio
 
 ## Overview
 
